@@ -2,7 +2,7 @@
 - 👀 I’m Data Scientist & Machine Learning Developer, Cyber Security Expert and Naval Comm., Command and Control Systems Expert.
 - 🌱 I’m currently learning Basic Linux :)
 - 📫 How to reach me www.linkedin.com/in/alkin-doğan
-- 😄 Pronouns: Mr.Craft (İf you do not watch "Mr.Nobody", You never know the meaning of Mr. C.r.a.f.t.)
+- 😄 Pronouns: Mr.Craft (If you don't watch "Mr.Nobody", You never know the meaning of Mr. C.r.a.f.t.)
 
 
 <!---
