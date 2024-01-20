@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alkndgn86
-- 👀 I’m interested in Data Scientist & Machine Learning Developer, Cyber Security Expert and Naval Comm., Command and Control Systems Expert.
+- 👀 I’m Data Scientist & Machine Learning Developer, Cyber Security Expert and Naval Comm., Command and Control Systems Expert.
 - 🌱 I’m currently learning Basic Linux :)
 - 📫 How to reach me www.linkedin.com/in/alkin-doğan
 - 😄 Pronouns: Mr.Nobody 
